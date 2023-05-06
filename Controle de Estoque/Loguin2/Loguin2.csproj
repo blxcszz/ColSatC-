@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\tecnico\Desktop\bruno tec 3\Program.cs" Link="Program.cs" />
+    <Compile Include="C:\Users\tecnico\Desktop\bruno tec 3\Program.txt" Link="Program.txt" />
+    <Compile Include="C:\Users\tecnico\Desktop\Program.txt" Link="Program.txt" />
+  </ItemGroup>
+
+</Project>

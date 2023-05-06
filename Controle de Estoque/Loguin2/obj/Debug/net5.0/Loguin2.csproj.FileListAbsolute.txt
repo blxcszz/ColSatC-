@@ -1,0 +1,16 @@
+C:\Users\tecnico\source\repos\Loguin2\Loguin2\bin\Debug\net5.0\Loguin2.exe
+C:\Users\tecnico\source\repos\Loguin2\Loguin2\bin\Debug\net5.0\Loguin2.deps.json
+C:\Users\tecnico\source\repos\Loguin2\Loguin2\bin\Debug\net5.0\Loguin2.runtimeconfig.json
+C:\Users\tecnico\source\repos\Loguin2\Loguin2\bin\Debug\net5.0\Loguin2.runtimeconfig.dev.json
+C:\Users\tecnico\source\repos\Loguin2\Loguin2\bin\Debug\net5.0\Loguin2.dll
+C:\Users\tecnico\source\repos\Loguin2\Loguin2\bin\Debug\net5.0\ref\Loguin2.dll
+C:\Users\tecnico\source\repos\Loguin2\Loguin2\bin\Debug\net5.0\Loguin2.pdb
+C:\Users\tecnico\source\repos\Loguin2\Loguin2\obj\Debug\net5.0\Loguin2.csproj.AssemblyReference.cache
+C:\Users\tecnico\source\repos\Loguin2\Loguin2\obj\Debug\net5.0\Loguin2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tecnico\source\repos\Loguin2\Loguin2\obj\Debug\net5.0\Loguin2.AssemblyInfoInputs.cache
+C:\Users\tecnico\source\repos\Loguin2\Loguin2\obj\Debug\net5.0\Loguin2.AssemblyInfo.cs
+C:\Users\tecnico\source\repos\Loguin2\Loguin2\obj\Debug\net5.0\Loguin2.csproj.CoreCompileInputs.cache
+C:\Users\tecnico\source\repos\Loguin2\Loguin2\obj\Debug\net5.0\Loguin2.dll
+C:\Users\tecnico\source\repos\Loguin2\Loguin2\obj\Debug\net5.0\ref\Loguin2.dll
+C:\Users\tecnico\source\repos\Loguin2\Loguin2\obj\Debug\net5.0\Loguin2.pdb
+C:\Users\tecnico\source\repos\Loguin2\Loguin2\obj\Debug\net5.0\Loguin2.genruntimeconfig.cache
